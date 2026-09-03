@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  A prospective undergrad with a math background, learning by building and exploring.
+  A Quant Finance undergrad with a math background, learning by building and exploring.
 </p>
 
 <p align="center">
@@ -11,7 +11,6 @@
 </p>
 
 ### About me
-- 🌱 Currently learning CS50 and Python
 - 👀 Interested in all things numbers!
 - 💞️ Open to beginner-friendly Python or web projects
 - 📫 Reach me at: `holixuan06@gmail.com`
